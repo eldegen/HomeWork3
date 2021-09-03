@@ -16,7 +16,6 @@ public class Main {
             if (tempVar > 0 && hasNegative) {
                 arrayLenght++;
                 averageNum = averageNum + tempVar;
-                System.out.println("sssss " + averageNum);
             }
         }
         System.out.println("На сколько делить " + arrayLenght);
